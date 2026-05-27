@@ -1,3 +1,5 @@
+![Banner](github-banner.png)
+
 # Hi, I'm Ayush 👋
 
 🎓 BBA in Artificial Intelligence Graduate from Amity University  
