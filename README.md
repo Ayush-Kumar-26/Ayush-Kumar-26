@@ -4,7 +4,7 @@
 
 🎓 BBA in Artificial Intelligence Graduate from Amity University  
 📊 Learning Power BI, SQL, Excel & Python  
-🛒 Founder of Bhikari Clothing & VEKHLO  
+🛒 Former Founder of CUSTOVANT & VEKHLO  
 📈 Building data-driven e-commerce projects  
 
 ## Projects
